@@ -1,5 +1,5 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<project name="name-of-project" default="full-build">
+<project name="Simple PHP Website" default="build">
  <!--  By default, we assume all tools to be on the $PATH  -->
 <property name="pdepend" value="pdepend"/>
 <property name="phpcpd" value="phpcpd"/>
